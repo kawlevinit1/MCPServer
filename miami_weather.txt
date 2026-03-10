@@ -1,0 +1,13 @@
+# Current Weather
+
+**Location:** 25.7617, -80.1918
+**Station:** KMIA
+**Observed:** 3/10/2026, 3:45 AM (local time) - 23m ago
+
+**Temperature:** 73.4°F (23.0°C)
+**Feels Like:** 74.6°F (23.7°C) (heat index)
+**Conditions:** Clear
+**Humidity:** 89%
+**Wind:** 21 mph from 90°
+**Pressure:** 30.13 inHg
+**Visibility:** 10.0 miles
