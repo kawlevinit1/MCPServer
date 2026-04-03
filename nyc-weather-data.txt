@@ -1,0 +1,17 @@
+NYC Current Weather Conditions
+================================
+
+Location: New York City (40.7128, -74.0060)
+Station: KNYC
+Observed: April 2, 2026 at 11:51 PM (local time)
+Last Updated: 1 hour 16 minutes ago
+
+Temperature: 41.0°F (5.0°C)
+Feels Like: 37.9°F (3.3°C) (wind chill)
+Conditions: Fog/Mist
+Humidity: 96%
+Pressure: 30.46 inHg
+Visibility: 5.0 miles
+
+Weather Summary:
+Cool, foggy night in NYC with high humidity and reduced visibility.
